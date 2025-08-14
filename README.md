@@ -1,1 +1,1 @@
-# Motion-Deblurring-in-Frequency-Domain
+# Motion Deblurring in Frequency Domain
